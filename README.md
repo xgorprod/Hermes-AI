@@ -24,5 +24,5 @@ https://github.com/xgorprod/Hermes-AI/assets/69267941/fe7cdc34-1043-4cb4-885c-1e
   - `yc_init.txt`
 - Заменить BOT_TOKEN в `main.py` и запустить бота :)
 
-
+<p>&nbsp;</p>
 Made with 🧡 by **http://orangehood.org/**
