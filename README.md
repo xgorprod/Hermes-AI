@@ -1,5 +1,5 @@
 # Hermes AI🕵️‍♂️
-Сервис для рерайтинга текста с помощью ИИ.
+### Сервис для рерайтинга текста с помощью ИИ.
 
 📌 Входные данные для оценки предоставлены - <a href="https://ainst.pro/" target="_blank">Аналитика Инсайт</a>
 
@@ -13,7 +13,7 @@ https://github.com/xgorprod/Hermes-AI/assets/69267941/fe7cdc34-1043-4cb4-885c-1e
 ## 🛠️ Что использовали
 - openai-community/roberta-large-openai-detector
 - ai21labs/Jamba-v0.1
-- Flask & Dash Boostrap
+- Flask & Dash Bootstrap
 
 ## 📝 Установка 
 - `git clone https://github.com/xgorprod/Hermes-AI`
