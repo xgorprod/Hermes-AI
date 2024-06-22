@@ -1,0 +1,2 @@
+<your_yc_token>
+<your_folder_id>
