@@ -18,6 +18,7 @@ https://github.com/xgorprod/Hermes-AI/assets/69267941/fe7cdc34-1043-4cb4-885c-1e
 ## 📝 Установка 
 - `git clone https://github.com/xgorprod/Hermes-AI`
 - Загрузить зависимости для модели `./roberta-v2/download.txt`
+- Создать виртуальное окружение и установить библиотеки: `requirements.txt`
 
 ## ℹ️ Использование
 - Заменить api_token и folder_id (Yandex Cloud)
